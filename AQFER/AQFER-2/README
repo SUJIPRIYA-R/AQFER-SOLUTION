@@ -1,0 +1,8 @@
+Create 2 string 
+get the input from the user.
+and replace the second occurence with the assigned character.
+and last print the result.
+----------
+input “abadcadhtcabcadodfea” the output should be “abadcadhtbdbcadodfea”
+-----
+sample output is attached.
