@@ -1,0 +1,8 @@
+In this solution i had used Brute-Force method.
+consider all subarrays and calculate the sum of their elements. 
+If the sum of the subarray is equal to the given sum, print it. 
+
+This approach takes O(n3) time as the subarray sum is calculated in O(1) time for each of n2 subarrays of an array of size n, 
+and it takes O(n) time to print a subarray.
+-------------
+I had used JAVA language.
