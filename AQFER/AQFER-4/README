@@ -6,3 +6,6 @@ This approach takes O(n3) time as the subarray sum is calculated in O(1) time fo
 and it takes O(n) time to print a subarray.
 -------------
 I had used JAVA language.
+------------
+A[] = {1,2,3,7,5} , sum = 12
+Output should be {2,3,7}
