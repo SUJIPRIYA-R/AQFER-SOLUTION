@@ -1,0 +1,8 @@
+In this program i had used BUBBLE SORT method to run the program.
+The given array is splitted into to half and print the first half in ascending order and next half in descending order.
+-------
+The language used here is JAVA.
+-------
+Sample input-A[2,39, 12, 2009, 243, 21, 42]
+sample output-[2, 12, 39, 2009, 243, 42, 21]
+-------
